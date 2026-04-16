@@ -1,5 +1,5 @@
-import MapScreen from "./screens/MapScreen";
+import RoleSelectScreen from './screens/RoleSelectScreen';
 
 export default function Index() {
-  return <MapScreen />
+  return <RoleSelectScreen />;
 }

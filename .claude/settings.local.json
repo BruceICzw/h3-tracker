@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/HP/Downloads/stitch_hextrack_smart_dispatch_system/stitch_hextrack_smart_dispatch_system/**)",
+      "Bash(npx expo *)"
+    ]
+  }
+}
