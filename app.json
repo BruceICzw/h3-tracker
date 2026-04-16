@@ -38,6 +38,10 @@
             "backgroundColor": "#000000"
           }
         }
+      ],
+      [
+        "expo-location",
+        {"locationAlwaysAndWhenInUsePermission": "Allow H3 Tracker to use your location."}
       ]
     ],
     "experiments": {
